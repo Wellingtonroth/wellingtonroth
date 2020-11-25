@@ -5,6 +5,7 @@
 
 ### Connect with me 
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/wellingtonroth/
+<p>
+<a href="https://linkedin.com/in/wellingtonroth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wellington roth" height="20" width="20" /></a>
+<a href="https://instagram.com/rothhdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wellington roth" height="20" width="20" /></a>
+</p>
